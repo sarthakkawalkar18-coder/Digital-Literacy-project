@@ -1,13 +1,13 @@
 # 📘 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- **Name:** [Your Name]  
-- **Registration Number:** [Your Reg No.]  
+- **Name:** Sarthak Kawalkar
+- **Registration Number:** 25BAI11438
 - **Branch:** B.Tech CSE (AI & ML)  
 - **University:** VIT Bhopal University  
 
 ---
-
+ 
 ## 📌 Project Overview
 This repository contains my Digital Literacy Project for the CSE0001 course. The project is based on the role of a Student Digital Ambassador, focusing on developing essential digital skills such as online tools usage, professional communication, safe internet practices, and cybercrime awareness.
 
@@ -28,8 +28,6 @@ Developed profiles on GitHub, LinkedIn, and Kaggle to build a professional onlin
 ### 🔹 Task 3: Coding & Collaboration Platforms
 - Completed a beginner-level coding challenge on HackerRank  
 - Created a Google Form titled **Digital Literacy Awareness Quiz**
-
-👉 **Google Form Link:** [Paste your link here]
 
 ---
 
